@@ -1,3 +1,3 @@
 # zet
 Zettelkasten 
-[link](#100)
+[link](#https://github.com/cw123hb/zet/blob/main/zets/zet_template.md)
